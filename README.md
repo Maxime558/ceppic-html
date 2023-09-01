@@ -26,3 +26,5 @@ git push -u origin main
 - MDN : https://developer.mozilla.org/fr/
 - Single page : https://onepagelove.com/
 - Responvisely : https://responsively.app/
+-CSS Garden : https://www.csszengarden.com/pages/alldesigns/
+-Style Page Dev : https://stylestage.dev/
