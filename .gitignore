@@ -25,6 +25,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # Autres :
-Motdepasse
-motdepasse.txt
 Clefssh
+motdepasse*
